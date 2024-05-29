@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94d342d7d424554d5abfd63dca05140e, type: 3}
   m_Name: Question2
   m_EditorClassIdentifier: 
-  question: Enter the question here
+  question: "Koja je razlika izme\u0111u <div> i <span> tagova u HTML-u?"
+  Answers:
+  - 
+  - 
+  - 
+  - 
+  answersQuestionIndex: 0

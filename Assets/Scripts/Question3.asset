@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94d342d7d424554d5abfd63dca05140e, type: 3}
   m_Name: Question3
   m_EditorClassIdentifier: 
-  question: Enter the question here
+  question: 'Kako se koristi atribut class u HTML-u i koja je njegova svrha?
+
+'
+  Answers:
+  - 
+  - 
+  - 
+  - 
+  answersQuestionIndex: 0
